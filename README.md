@@ -1,17 +1,39 @@
-# PSet1 (Descrição geral)
+# 📊 PSet1 — Banco de Dados
 
-- Nome: Victor Luis Romão dos Santos
-- Nome Professor: Abrantes Araujo Silva Filho
-- Turma: CC1M
-- Monitor: Renan Siquara Salles
+**Autor:** Victor Luis Romão dos Santos  
+**Professor:** Abrantes Araujo Silva Filho  
+**Turma:** CC1M  
+**Monitor:** Renan Siquara Salles
 
-___
+## 🧾 Descrição Geral
 
-### Descrição Geral:
+Este repositório contém a resolução do **PSet1**, um conjunto de exercícios avançados com foco no aprofundamento dos **conceitos de banco de dados** e **consultas SQL**.
 
-Este foi um trabalho feito dentro da máquina virtual para testar conhecimentos de SQL
-e acrescentar no nosso aprendizado a resolução de problemas, leitura e procura de
-documentação. Levei um período de 4/5 dias (direto) para fazer e espero que funcione
-da forma como foi prometida.
+> **PSet** significa "**problema extremamente difícil**", e representa um tipo de exercício proposto com alto nível de complexidade, destinado à consolidação prática do conteúdo ministrado em sala de aula.
 
-#### Os README's foram feitos usando markdown que foi aprendido após algumas pesquisas.
+## 🛠️ Tecnologias e Ferramentas Utilizadas
+
+- **Oracle Database**
+- **PostgreSQL**
+- **MariaDB**
+- SQL
+
+## 🎯 Objetivos do PSet
+
+- Praticar a modelagem e manipulação de dados relacionais.
+- Executar consultas SQL complexas, envolvendo:
+  - Junções (JOINs)
+  - Subconsultas
+  - Agregações
+  - Filtros condicionais
+- Comparar comportamentos entre diferentes SGBDs.
+
+## 🧠 Aprendizados Esperados
+
+- Domínio da linguagem SQL em diferentes bancos de dados.
+- Análise de performance e compatibilidade entre SGBDs.
+- Aplicação de lógica e raciocínio crítico na resolução de problemas complexos de dados.
+
+---
+
+Desenvolvido como parte da disciplina de Banco de Dados no curso de Ciência da Computação.
